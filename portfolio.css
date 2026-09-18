@@ -1066,12 +1066,13 @@ a {
   }
 
   .nav-list {
-    gap: 8px;
-    font-size: 12px;
+    gap: 9px;
+    font-size: 13px;
   }
 
 
   #section1 {
+    height: 87vh;
     padding: 10px;
   }
 
@@ -1090,11 +1091,13 @@ a {
   }
 
   .portfolio-image {
-    width: 150px;
+    width: 180px;
     margin-top: 10px;
   }
 
   #section2 {
+    position: absolute;
+    top: 92%;
     width: 100%;
     padding: 50px 8px;
   }
@@ -1126,12 +1129,15 @@ a {
     font-size: 12px;
     padding: 12px 5px;
     gap: 8px;
+    position: absolute;
+    top: 168%;
   }
 
 
 
   #section4 {
     padding: 0 10px;
+    height: 117vh;
   }
 
   #section4 h1 {
