@@ -931,7 +931,7 @@ a {
 
   #section5 {
     position: absolute;
-    top: 270%;
+    top: 120%;
     left: 50%;
     transform: translateX(-50%);
     width: 100%;
@@ -990,7 +990,7 @@ a {
 
   #section6 {
     width: 90%;
-    top: 480%;
+    top: 320%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -1016,7 +1016,7 @@ a {
     margin: auto;
     padding: 30px 20px;
     position: absolute;
-    top: 560%;
+    top: 620%;
     box-sizing: border-box;
   }
 
