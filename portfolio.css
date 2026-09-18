@@ -930,10 +930,14 @@ a {
 
 
   #section5 {
-    margin: 480% auto;
+    position: absolute;
+    top: 270%;
+    left: 50%;
+    transform: translateX(-50%);
     width: 100%;
     text-align: center;
     padding: 0 15px;
+    box-sizing: border-box;
   }
 
   #section5 h1 {
@@ -986,7 +990,7 @@ a {
 
   #section6 {
     width: 90%;
-    top: 368%;
+    top: 480%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -1012,7 +1016,8 @@ a {
     margin: auto;
     padding: 30px 20px;
     position: absolute;
-    top: 450%;
+    top: 560%;
+    box-sizing: border-box;
   }
 
   #section7 h1 {
