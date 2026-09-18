@@ -802,7 +802,7 @@ a {
     width: 100%;
     height: auto;
     position: absolute;
-    top: 15%;
+    top: 20%;
     left: 0;
     text-align: center;
     padding: 10px;
@@ -829,7 +829,7 @@ a {
     right: auto;
     bottom: auto;
     top: auto;
-    width: 200px;
+    width: 230px;
     margin-top: 10px;
   }
 
@@ -851,7 +851,7 @@ a {
     text-align: center;
     align-items: center;
     position: absolute;
-    top: 67%;
+    top: 77%;
   }
 
   #section2 h1 {
@@ -883,7 +883,7 @@ a {
 
 
   .move-list {
-    top: 105%;
+    top: 110%;
     height: auto;
     min-height: 12vh;
     padding: 15px 10px;
@@ -895,7 +895,7 @@ a {
 
 
   #section4 {
-    top: 125%;
+    top: 128%;
     width: 100%;
     text-align: center;
     padding: 0 15px;
@@ -930,7 +930,7 @@ a {
 
 
   #section5 {
-    margin: 470% auto;
+    margin: 475% auto;
     width: 100%;
     text-align: center;
     padding: 0 15px;
@@ -986,7 +986,7 @@ a {
 
   #section6 {
     width: 90%;
-    top: 328%;
+    top: 335%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -1012,7 +1012,7 @@ a {
     margin: auto;
     padding: 30px 20px;
     position: absolute;
-    top: 440%;
+    top: 450%;
   }
 
   #section7 h1 {
